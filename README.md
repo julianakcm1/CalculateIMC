@@ -2,6 +2,8 @@
 ### Curso Explorer - Rocketseat - Stage 5 
 Treinando javascript
 
+Design: https://www.figma.com/file/sIfJ2bIioV7OTgKCsnkX5w/IMC-(Copy)?node-id=6%3A4&t=f5mWyH1naMgr0UBK-0
+
 <div align="center">
 
 ![Captura de tela de 2023-02-22 22-27-20](https://user-images.githubusercontent.com/54086293/220801944-f11dd399-d229-415c-8cc9-3a691dacc902.png)
