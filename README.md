@@ -1,5 +1,5 @@
 # CalculateIMC
-Curso Explorer - Rocketseat - Stage 5 
+### Curso Explorer - Rocketseat - Stage 5 
 Treinando javascript
 
 <div align="center">
